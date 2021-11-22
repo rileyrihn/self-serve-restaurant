@@ -1,4 +1,5 @@
 # self-serve-restaurant
+Simple VueJS application that allows a restaurant owner to create an offering of menu items and a customer to select items to order.
 
 ## Project setup
 ```
@@ -9,16 +10,3 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
